@@ -1,2 +1,20 @@
-# A-Trust-Layered-Framework-for-Discovering-Authentic-Student-Opportunities
-**350-character GitHub description:**  An AI-powered platform to help students discover verified internships, hackathons, and scholarships. It uses faculty and E-Cell validation, fraud detection, and personalized recommendations based on skills and interests, ensuring authentic and relevant opportunities.
+# A Trust-Layered Framework for Discovering Authentic Student Opportunities
+
+## Overview
+This project helps students find authentic internships, hackathons, and scholarships.
+
+## Features
+- Faculty verification
+- E-Cell validation
+- Fraud detection
+- AI recommendations
+- Skill matching
+
+## Tech Stack
+- React.js
+- Python
+- Machine Learning
+- MongoDB
+
+## Objective
+To provide trusted and verified opportunities for students.
